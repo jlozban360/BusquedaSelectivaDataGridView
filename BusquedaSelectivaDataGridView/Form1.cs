@@ -7,7 +7,6 @@ namespace BusquedaSelectivaDataGridView
     {
         private DataTable dataTable;
 
-
         public Form1()
         {
             InitializeComponent();
